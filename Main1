@@ -1,0 +1,9 @@
+local is_solara = string.find(identifyexecutor(), "Solara")
+
+if is_solara then
+    --loadstring(game:HttpGet("hi"))()
+    print('nooooooo solara')
+else 
+    --loadstring(game:HttpGet("here link"))()
+    print('sigma wave')
+end
